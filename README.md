@@ -4,16 +4,15 @@
 * It shows that many leading organisation have integrated AI into their operation, contributing significantly to business transformation and performance improvement.
 * The dashboard shows how AI adoption varies across countries and industries, and how it impact business performance(ROI).
 # **🎯 Objectives**
-- ⭐ To Study the yearly growth trend of AI adoption from 2020 - 2025
-- ⭐ To compare AI maturity across industries and company types
-⭐ To evaluate relationship between company revenue and AI adoptation success
-⭐ To compare countrywise AI transformation pattern
-⭐ To predict AI maturity/ROI using numerical indicator.
+  ⭐ To Study the yearly growth trend of AI adoption from 2020 - 2025⭐ To compare AI maturity across industries and company types
+  ⭐ To evaluate relationship between company revenue and AI adoptation success
+  ⭐ To compare countrywise AI transformation pattern
+  ⭐ To predict AI maturity/ROI using numerical indicator.
 # **📊 Key Insights**
-🔹 Technology and E-commerce sectors show the highest AI adoption rates.
-🔹Finance and Retail industries are rapidly increasing AI integration
-🔹 Companies with advanced AI maturity demonstrate higher ROI and productivity
-🔹 AI adoption is strongly linked to improved decision-making and automation.
+  🔹 Technology and E-commerce sectors show the highest AI adoption rates.
+  🔹Finance and Retail industries are rapidly increasing AI integration
+  🔹 Companies with advanced AI maturity demonstrate higher ROI and productivity
+  🔹 AI adoption is strongly linked to improved decision-making and automation.
 # **Industries Covered**
 * Technology
 * E-commerce
