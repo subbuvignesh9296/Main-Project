@@ -50,9 +50,9 @@
 * Helps organizations understand competitive AI positioning
 * Supports strategic decision-making in AI investments
 # **📌f Data Visualization** 
-* 📊 Bar Chart → Compare categories (e.g., sales by product)
-* 📈 Line Chart → Show trends over time (e.g., monthly revenue)
-* 🥧 Pie Chart → Show percentage distribution (e.g., market share)
+* 📊 Bar Chart → Compare categories 
+* 📈 Line Chart → Show trends over time 
+* 🥧 Pie Chart → Show percentage distribution
 * 🔵 Scatter Plot → Show relationship between two variables
 * 📉 Histogram → Show frequency distribution
 
