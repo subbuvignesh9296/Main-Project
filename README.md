@@ -1,5 +1,5 @@
 # **🏥 AI Adoption in Fortune 500 Companies**
-# 📌 Project Overview** 
+# **📌 Project Overview** 
 * This project mainly focuses on how AI adoption amoung fortune 500 companies and industries across differernt countries.
 * It shows that many leading organisation have integrated AI into their operation, contributing significantly to business transformation and performance improvement.
 * The dashboard shows how AI adoption varies across countries and industries, and how it impact business performance(ROI).
