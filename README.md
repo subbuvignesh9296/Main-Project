@@ -9,10 +9,10 @@
 * ⭐ To compare countrywise AI transformation pattern
 * ⭐ To predict AI maturity/ROI using numerical indicator.
 # **📊 Key Insights**
-*🔹 Technology and E-commerce sectors show the highest AI adoption rates.
-*🔹Finance and Retail industries are rapidly increasing AI integration
-*🔹 Companies with advanced AI maturity demonstrate higher ROI and productivity
-*🔹 AI adoption is strongly linked to improved decision-making and automation.
+* 🔹 Technology and E-commerce sectors show the highest AI adoption rates.
+* 🔹Finance and Retail industries are rapidly increasing AI integration
+* 🔹 Companies with advanced AI maturity demonstrate higher ROI and productivity
+* 🔹 AI adoption is strongly linked to improved decision-making and automation.
 # **Industries Covered**
 * Technology
 * E-commerce
