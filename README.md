@@ -49,7 +49,7 @@
 # **🔍 Business Impact**
 * Helps organizations understand competitive AI positioning
 * Supports strategic decision-making in AI investments
-# **📌f Data Visualization** 
+# **📌 Data Visualization** 
 * 📊 Bar Chart → Compare categories 
 * 📈 Line Chart → Show trends over time 
 * 🥧 Pie Chart → Show percentage distribution
